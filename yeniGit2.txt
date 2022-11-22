@@ -1,4 +1,5 @@
 Git GitHub 1. deneme
 Git GitHub 2. deneme
 Git GitHub 3. deneme
-master branch kontrol
+dogan branch kontrol 1
+dogan branch kontrol 2
