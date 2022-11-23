@@ -4,3 +4,6 @@ Git GitHub 3. deneme
 dogan branch kontrol 1
 dogan branch kontrol 2
 dogan branch kontrol 3
+======
+gitHub yeni eklemeler yapiliyor deneme 1
+
